@@ -1,0 +1,8 @@
+Seja bem vindo ao Pedra, Papel e Tesoura ou Jokenpô.  O jogo funciona com 3 possibilidades, sendo elas Pedra, Papel e Tesoura. A Pedra vence a Tesoura, mas perde para o papel. O Papel por sua vez vence a Pedra, mas perde para a Tesoura e a Tesoura vence o Papel, mas perde para a Pedra. Assim sendo um ciclo. 
+            Nosso sistema funciona com tres varias sendo respectivas a cada uma delas (Tesoura = 1/Papel = 2/Pedra = 3) e após isso criamos uma aleatoria para o computador, assim tendo a chance de vencer, empatar ou perder o jogo. Acima tambem temos um Score indicando quantas vezes o usuario ganhou consecutivamente.
+            Caso voce não saiba como funciona vamos as instruções:  
+            1 - Primeiro coloque suas informações.
+            2 - Escolha um modo de jogo e a dificuldade. 
+            3 - Escolha Pedra, Papel ou Tesoura.
+            4 - Veja o resultado e seu Score. 
+            5 - Decida se quer jogar novamente ou sair do jogo.
